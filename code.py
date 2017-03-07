@@ -3,4 +3,4 @@
 
 def button():
     """Return button."""
-    return "button"
+    return "cool button"
